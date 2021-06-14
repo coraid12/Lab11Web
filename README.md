@@ -13,7 +13,7 @@
 
 ![1](https://user-images.githubusercontent.com/56239989/121812731-3a947a00-cc93-11eb-87fc-58b1379bc2ac.jpg)
  
-### 3. Buka cmd pada XAMPP Shell lalu buka php spark :
+### 3. Buka cmd pada XAMPP Shell lalu buka php spark, untuk menjalankan server ketik "php spark serve" :
 
 ![2](https://user-images.githubusercontent.com/56239989/121812816-8c3d0480-cc93-11eb-8ff9-47b717b8f5c0.jpg)
 

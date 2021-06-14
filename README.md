@@ -19,5 +19,26 @@
 
 - Hasil error/kesalahan :
 
+![2x](https://user-images.githubusercontent.com/56239989/121874541-a4636100-cd31-11eb-9d92-fd56483bbdd3.jpg)
 
-### 4. 
+### 4. Mengaktifkan mode Debugging dengan mengubah file .env menjadi = development, seperti berikut :
+
+![3](https://user-images.githubusercontent.com/56239989/121873714-da541580-cd30-11eb-9205-7fa801544301.jpg)
+
+### 5. Untuk mencoba Error hilangkan tanda ; (titik koma) pada Home.php, seperti berikut :
+
+![5](https://user-images.githubusercontent.com/56239989/121874946-12a82380-cd32-11eb-9a11-85f28e785469.jpg)
+
+### 6. Struktur Direktori yang tersedia :
+
+![5x](https://user-images.githubusercontent.com/56239989/121875277-76325100-cd32-11eb-812e-5a498bbaaaf6.jpg)
+
+### 7. Mengarahkan router pada controller :
+
+![6](https://user-images.githubusercontent.com/56239989/121875724-fc4e9780-cd32-11eb-90fd-fc19eec5fc69.jpg)
+
+### 8. Cek pada CMD dengan memasukan "php spark routes", hasilnya akan seperti berikut :
+
+![7x](https://user-images.githubusercontent.com/56239989/121875844-1be5c000-cd33-11eb-8240-8c084a1c3071.jpg)
+
+### 9. 

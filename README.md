@@ -57,4 +57,16 @@
 
 ![11](https://user-images.githubusercontent.com/56239989/121879152-bb588200-cd36-11eb-8824-168c8d807d60.jpg)
 
+- Akses http://localhost:8080/page/tos karena halaman in belum masuk pada routing, hasilnya :
 
+![12](https://user-images.githubusercontent.com/56239989/121880203-f0190900-cd37-11eb-9825-830ba341e3de.jpg)
+
+### 12. Membuat View, dengan membuat file baru bernama about.php dan masukan kode berikut :
+
+![13x](https://user-images.githubusercontent.com/56239989/121882649-0379a380-cd3b-11eb-972d-58d6d81e71c8.jpg)
+
+- Hasilnya:
+
+![14](https://user-images.githubusercontent.com/56239989/121882685-0c6a7500-cd3b-11eb-8114-37056eed8825.jpg)
+
+### 13. 

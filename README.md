@@ -37,7 +37,7 @@
 
 ![6](https://user-images.githubusercontent.com/56239989/121875724-fc4e9780-cd32-11eb-90fd-fc19eec5fc69.jpg)
 
-### 8. Cek pada CMD dengan memasukan "php spark routes", hasilnya akan seperti berikut :
+### 8. Cek pada CMD dengan memasukan "php spark routes", untuk menjalankan server ketik "php spark serve",hasilnya akan seperti berikut :
 
 ![7x](https://user-images.githubusercontent.com/56239989/121875844-1be5c000-cd33-11eb-8240-8c084a1c3071.jpg)
 

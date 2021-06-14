@@ -41,4 +41,20 @@
 
 ![7x](https://user-images.githubusercontent.com/56239989/121875844-1be5c000-cd33-11eb-8240-8c084a1c3071.jpg)
 
-### 9. 
+### 9. Akses route yang telah dibuat dengan http://localhost:8080/about, hasilnya :
+
+![8](https://user-images.githubusercontent.com/56239989/121877105-76cbe700-cd34-11eb-9a21-0084c2ac796c.jpg)
+
+### 10. Membuat Controller Page, dengan membuat file baru bernama page.php seperti berikut :
+
+![9](https://user-images.githubusercontent.com/56239989/121877676-0ec9d080-cd35-11eb-9f4f-a01eef869ca6.jpg)
+
+- Hasilnya :
+
+![10](https://user-images.githubusercontent.com/56239989/121877712-1b4e2900-cd35-11eb-820b-41ee82b0e6e0.jpg)
+
+### 11. Mengaktifkan AutoRouting dengan men set nilai true/false, jika true maka fungsi akan aktif
+
+![11](https://user-images.githubusercontent.com/56239989/121879152-bb588200-cd36-11eb-8824-168c8d807d60.jpg)
+
+

@@ -9,7 +9,7 @@
 
 ![1x](https://user-images.githubusercontent.com/56239989/121812591-94487480-cc92-11eb-8d77-74213a2ecd58.jpg)
 
-### 2. Buka http://localhost/lab11_php_ci/ci4/public/ hasilnya :
+### 2. Instal Codeigniter 4 dan Buka http://localhost/lab11_php_ci/ci4/public/ , hasilnya :
 
 ![1](https://user-images.githubusercontent.com/56239989/121812731-3a947a00-cc93-11eb-87fc-58b1379bc2ac.jpg)
  

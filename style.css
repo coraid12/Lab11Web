@@ -3,29 +3,31 @@
 url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap');
 @import
 url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
+
 /* Reset CSS */
 * {
-margin: 0;
-padding: 0;
+    margin: 0;
+    padding: 0;
 }
 body {
-line-height:1;
-font-size:100%;
-font-family:'Open Sans', sans-serif;
-color:#5a5a5a;
+    line-height:1;
+    font-size:100%;
+    font-family:'Open Sans', sans-serif;
+    color:#5a5a5a;
 }
 #container {
-width: 980px;
-margin: 0 auto;
-box-shadow: 0 0 1em #cccccc;
+    width: 980px;
+    margin: 0 auto;
+    box-shadow: 0 0 1em #cccccc;
 }
+
 /* header */
 header {
-padding: 20px;
+    padding: 20px;
 }
 header h1 {
-margin: 20px 10px;
-color: #b5b5b5;
+    margin: 20px 10px;
+    color: #b5b5b5;
 }
 
 /* navigasi */
@@ -49,7 +51,7 @@ nav a:hover {
 /* Hero Panel */
 #hero {
     background-color: #e4e4e5;
-    padding: 0px 20px;
+    padding: 50px 20px;
     margin-bottom: 20px;
 }
 #hero h1 {
@@ -62,6 +64,55 @@ nav a:hover {
     line-height: 25px;
 }
 
+/* Introduce Panel */
+#introduce{
+    background-color: #e4e4e5;
+    padding: 50px 20px;
+    margin-bottom: 20px;
+}
+#introduce h1 {
+    margin-bottom: 10px;
+    font-size: 35px;
+    position: relative;
+    left: 20px;
+}
+#introduce p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    padding: 30px;
+    line-height: 25px;
+    position: relative;
+    left: 20px;
+}
+
+/* Contact Panel */
+#kontak{
+    background-color: #e4e4e5;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
+.input,
+.msg, .area{
+    width: 100%;
+    padding: 10px;
+    border: 2px solid white;
+    box-sizing: border-box;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+button{
+    font-size: 14px;
+    background-color: #3f3f3f;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 8x;
+}
+#kontak button.active,
+#kontak button:hover{
+    background: #6e6e6e;
+}
+
 /* main content */
 #wrapper {
     margin: 0;
@@ -71,61 +122,62 @@ nav a:hover {
     width: 640px;
     padding: 20px;
 }
+
 /* sidebar area */
 #sidebar {
-    float: left;
+    float: right;
     width: 260px;
     padding: 20px;
 }
 
 /* widget */
 .widget-box {
-    border:1px solid #eee;
-    margin-bottom:20px;
+    border: 1px solid #eee;
+    margin-bottom: 20px;
 }
 .widget-box .title {
-    padding:10px 16px;
-    background-color:#428bca;
-    color:#fff;
+    padding: 10px 16px;
+    background-color: #428bca;
+    color: #fff;
 }
 .widget-box ul {
     list-style-type:none;
 }
 .widget-box li {
-    border-bottom:1px solid #eee;
+    border-bottom: 1px solid  #eee;
 }
 .widget-box li a {
-    padding:10px 16px;
-    color:#333;
-    display:block;
-    text-decoration:none;
+    padding: 10px 16px;
+    color: #333;
+    display: block;
+    text-decoration: none;
 }
 .widget-box li:hover a {
-    background-color:#eee;
+    background-color: #eee;
 }
 .widget-box p {
-    padding:15px;
-    line-height:25px;
+    padding: 15px;
+    line-height: 25px;
 }
 
 /* footer */
 footer {
-    clear:both;
-    background-color:#1d1d1d;
-    padding:20px;
-    color:#eee;
+    clear: both;
+    background-color: #1d1d1d;
+    padding: 20px;
+    color:  #eee
 }
 
 /* box */
 .box {
-    display:block;
-    float:left;
-    width:33.333333%;
-    box-sizing:border-box;
-    -moz-box-sizing:border-box;
-    -webkit-box-sizing:border-box;
-    padding:0 10px;
-    text-align:center;
+    display: block;
+    float: left;
+    width: 33.333333%;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding: 0 10px;
+    text-align: center;
 }
 .box h3 {
     margin: 15px 0;
@@ -150,22 +202,24 @@ box img {
 }
 .row:after, .row:before,
 .entry:after, .entry:before {
-    content:'';
-    display:table;
+    content: '';
+    display: table;
 }
 .row:after,
 .entry:after {
-    clear:both;
+    clear: both;
 }
 
 .divider {
     border:0;
     border-top:1px solid #eeeeee;
     margin:40px 0;
+
 }
+
 /* entry */
 .entry {
-    margin: 5px 0;
+    margin: 15px 0;
 }
 .entry h2 {
     margin-bottom: 20px;
@@ -180,4 +234,23 @@ box img {
 }
 .entry .right-img {
     float: right;
+}
+
+/* Footer Wrapper */
+#footer-wrapper{
+    background: white;
+    margin: 0;
+}
+#footer-wrapper p{
+    color: black;
+}
+.kiri{
+    float: left;
+    width: 400px;
+    padding: 10px;
+}
+.kanan{
+    float: left;
+    width: 500px;
+    padding: 10px;
 }

@@ -94,5 +94,6 @@
 
 ![21](https://user-images.githubusercontent.com/56239989/121885380-4db05400-cd3e-11eb-9115-102ae1a2fe9a.jpg)
 
+- Halaman kontak :
 
-
+![23](https://user-images.githubusercontent.com/56239989/121995779-b85e9f80-cdd1-11eb-8714-4a4943992756.jpg)

@@ -29,6 +29,10 @@
 
 ![5](https://user-images.githubusercontent.com/56239989/121874946-12a82380-cd32-11eb-9a11-85f28e785469.jpg)
 
+- Contoh Eror saat diakses :
+
+![24](https://user-images.githubusercontent.com/56239989/121996004-112e3800-cdd2-11eb-8291-58ed853bf886.jpg)
+
 ### 6. Struktur Direktori yang tersedia :
 
 ![5x](https://user-images.githubusercontent.com/56239989/121875277-76325100-cd32-11eb-812e-5a498bbaaaf6.jpg)

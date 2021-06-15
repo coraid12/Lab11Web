@@ -5,7 +5,7 @@
 
 # Langkah Praktikum
 
-### 1. Jalankan XAMPP Ubah file php.ini seperti berikut :
+### 1. Buat folder baru lab11_php_ci lalu Jalankan XAMPP Ubah file php.ini seperti berikut :
 
 ![1x](https://user-images.githubusercontent.com/56239989/121812591-94487480-cc92-11eb-8d77-74213a2ecd58.jpg)
 

@@ -3,7 +3,7 @@
 - NIM   : 311910682
 - Kelas : TI.19.A.2
 
-# Langkah Praktikum
+# Langkah Praktikum 11
 
 ### 1. Buat folder baru lab11_php_ci lalu Jalankan XAMPP Ubah file php.ini seperti berikut :
 
@@ -101,3 +101,134 @@
 - Halaman kontak :
 
 ![23](https://user-images.githubusercontent.com/56239989/121995779-b85e9f80-cdd1-11eb-8714-4a4943992756.jpg)
+
+# Lab11Web
+- Nama  : Fahmi Prayoga
+- NIM   : 311910682
+- Kelas : TI.19.A.2
+
+# Langkah Praktikum 12
+
+### 1. Pastikan MySQL pada program XAMPP berjalan dan buat database seperti berikut :
+
+![1](https://user-images.githubusercontent.com/56239989/122720515-c57c0280-d299-11eb-83bf-e5fc425d6758.jpg)
+
+### 2. Mengkonfigurasi koneksi database pada file .env seperti berikut :
+
+![2](https://user-images.githubusercontent.com/56239989/122720603-e2183a80-d299-11eb-9345-5bcf5981090b.jpg)
+
+### 3. Membuat file Model pada direktori app/Models dengan nama ArtikelModel.php seperti berikut :
+
+![3](https://user-images.githubusercontent.com/56239989/122720695-fd834580-d299-11eb-8307-948cb9947b23.jpg)
+
+### 4. Membuat file Controller baru dengan nama Artikel.php pada direktori app/Controllers. seperti berikut :
+
+![4](https://user-images.githubusercontent.com/56239989/122720903-3a4f3c80-d29a-11eb-91e5-e2a50b961673.jpg)
+
+### 5. Membuat file Views baru dengan nama artikel pada direktori app/views, kemudian buat filebaru dengan nama index.php, seperti berikut :
+
+![5](https://user-images.githubusercontent.com/56239989/122721195-93b76b80-d29a-11eb-837b-70de9294d90c.jpg)
+
+- Lalu jalankan server dan akses link : http://localhost:8080/artikel  
+
+![6](https://user-images.githubusercontent.com/56239989/122721651-1f30fc80-d29b-11eb-89cd-edd33eef0020.jpg)
+
+### 6. Masukan data berikut pada database :
+
+![7](https://user-images.githubusercontent.com/56239989/122730529-830bf300-d2a4-11eb-92a5-16a28ab38b2f.jpg)
+
+- Refresh dan lihat kembali browser :
+
+![8](https://user-images.githubusercontent.com/56239989/122730557-8f904b80-d2a4-11eb-9426-237aedd95880.jpg)
+
+### 7. Menambahkan Detail pada Artikel.php seperti berikut :
+
+![9](https://user-images.githubusercontent.com/56239989/122731105-278e3500-d2a5-11eb-9679-b607c40e3bb1.jpg)
+
+### 8. Membuat file baru baru untuk halaman detail dengan nama app/views/artikel/detail.php. seperti berikut :
+
+![10](https://user-images.githubusercontent.com/56239989/122731190-396fd800-d2a5-11eb-9297-c33ed1f88c95.jpg)
+
+### 9. Tambahkan rute baru pada Routes.php :
+
+![11](https://user-images.githubusercontent.com/56239989/122731415-7b991980-d2a5-11eb-8490-3cac4a8b6eaa.jpg)
+
+- Tampilan Artikel setelah di Klik :
+
+![12](https://user-images.githubusercontent.com/56239989/122731927-f2cead80-d2a5-11eb-9335-4d8a40aeefe5.jpg)
+
+### 10. Membuat Menu Admin
+
+- Buat method baru pada Controller Artikel dengan nama admin_index() :
+
+![13](https://user-images.githubusercontent.com/56239989/122732178-388b7600-d2a6-11eb-8dc2-ccb98ee6ff4b.jpg)
+
+- Buat file baru dengan nama admin_index.php pada folder artikel :
+
+![14](https://user-images.githubusercontent.com/56239989/122732382-6c669b80-d2a6-11eb-8f04-1a74dbe861b4.jpg)
+
+- Tambahkan Routing baru pada Routes.php seperti berikut :
+
+![15](https://user-images.githubusercontent.com/56239989/122732583-a20b8480-d2a6-11eb-947d-7ea43b6bae7f.jpg)
+
+- Akses menu admin dengan url http://localhost:8080/admin/artikel :
+
+![16](https://user-images.githubusercontent.com/56239989/122734694-81442e80-d2a8-11eb-9174-5c9d53598ddc.jpg)
+
+### 11. Menambah Data Artikel
+
+- Tambahkan fungsi/method baru pada Controller Artikel dengan nama add() :
+
+![17](https://user-images.githubusercontent.com/56239989/122735069-e26c0200-d2a8-11eb-8c4e-a41f1966eaa4.jpg)
+
+- Lalu buat file baru dengan nama form_add.php pada folder artikel :
+
+![18](https://user-images.githubusercontent.com/56239989/122735115-ee57c400-d2a8-11eb-8eb0-4a146c5f3e71.jpg)
+
+- Tampilan jika mengklik Tambah Artikel :
+
+![19](https://user-images.githubusercontent.com/56239989/122735281-16472780-d2a9-11eb-8816-88178acc3993.jpg)
+
+### 12. Mengubah DAta Artikel
+
+- Tambahkan fungsi/method baru pada Controller Artikel dengan nama edit() :
+
+![20](https://user-images.githubusercontent.com/56239989/122735483-468ec600-d2a9-11eb-9ffa-1ebcf85845ee.jpg)
+
+- Lalu buat file baru dengan nama edit_add.php pada folder artikel :
+
+![21](https://user-images.githubusercontent.com/56239989/122735658-70e08380-d2a9-11eb-8334-68e51495d0c3.jpg)
+
+- Tampilan saat mengubah artikel :
+
+![22](https://user-images.githubusercontent.com/56239989/122735780-8eade880-d2a9-11eb-8c69-a4fbfa68e3e7.jpg)
+
+### 13. Menghapus Data
+
+- Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete() :
+
+![23](https://user-images.githubusercontent.com/56239989/122735923-ac7b4d80-d2a9-11eb-9a9b-08903b44127a.jpg)
+
+# Pertanyaan dan Tugas 
+
+**Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan
+improvisasi.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

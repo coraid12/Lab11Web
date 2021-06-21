@@ -107,7 +107,7 @@
 - NIM   : 311910682
 - Kelas : TI.19.A.2
 
-# Langkah Praktikum 12 ======================================================================================
+# Langkah Praktikum 12 ==========================================================================================
 
 ### 1. Pastikan MySQL pada program XAMPP berjalan dan buat database seperti berikut :
 

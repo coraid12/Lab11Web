@@ -1,7 +1,9 @@
 # Lab11Web
-> Nama  : Fahmi Prayoga.
-> NIM   : 311910682.
-> Kelas : TI.19.A.2.
+> Nama  : Fahmi Prayoga
+
+> NIM   : 311910682
+
+> Kelas : TI.19.A.2
 
 # Langkah Praktikum 11
 

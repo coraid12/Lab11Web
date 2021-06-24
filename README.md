@@ -1,7 +1,7 @@
 # Lab11Web
-- Nama  : Fahmi Prayoga
-- NIM   : 311910682
-- Kelas : TI.19.A.2
+> Nama  : Fahmi Prayoga
+> NIM   : 311910682
+> Kelas : TI.19.A.2
 
 # Langkah Praktikum 11
 
@@ -103,9 +103,9 @@
 ![23](https://user-images.githubusercontent.com/56239989/121995779-b85e9f80-cdd1-11eb-8714-4a4943992756.jpg)
 
 # Lab11Web
-- Nama  : Fahmi Prayoga
-- NIM   : 311910682
-- Kelas : TI.19.A.2
+> Nama  : Fahmi Prayoga
+> NIM   : 311910682
+> Kelas : TI.19.A.2
 
 # Langkah Praktikum 12 =====================
 
@@ -208,13 +208,13 @@
 - Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete() :
 
 ![23](https://user-images.githubusercontent.com/56239989/122735923-ac7b4d80-d2a9-11eb-9a9b-08903b44127a.jpg)
------------------------------------------------------------------------
-# Lab11Web
-- Nama  : Fahmi Prayoga
-- NIM   : 311910682
-- Kelas : TI.19.A.2
 
-# Langkah Praktikum 11
+# Lab11Web
+> Nama  : Fahmi Prayoga
+> NIM   : 311910682
+> Kelas : TI.19.A.2
+
+# Langkah Praktikum 13
 
 
 

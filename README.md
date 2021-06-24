@@ -106,7 +106,9 @@
 
 # Lab11Web
 > Nama  : Fahmi Prayoga
+
 > NIM   : 311910682
+
 > Kelas : TI.19.A.2
 
 # Langkah Praktikum 12 =====================
@@ -213,14 +215,18 @@
 
 # Lab11Web
 > Nama  : Fahmi Prayoga
+
 > NIM   : 311910682
+
 > Kelas : TI.19.A.2
 
 # Langkah Praktikum 13
 
 
+### 1. Persiapan
+- Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
 
-
+### 2. Membuat Tabel User Login
 
 
 

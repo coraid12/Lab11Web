@@ -261,9 +261,29 @@
 
 - Hasil Uji Coba Login :
 
-![9](https://user-images.githubusercontent.com/56239989/123211903-4a5f5a00-d4ee-11eb-92b3-c069869bf8c9.jpg)
+![login](https://user-images.githubusercontent.com/56239989/123220848-87c8e500-d4f8-11eb-8a96-8f7cdf5ae317.jpg)
 
-### 7. 
+### 7. Menambahkan Auth Filter
+- Selanjutnya membuat filer untuk halaman admin. Buat file baru dengan nama Auth.php pada direktori app/Filters. berikut :
+
+![10](https://user-images.githubusercontent.com/56239989/123222043-be532f80-d4f9-11eb-9db1-cf76569b2a10.jpg)
+
+- Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut:
+
+![11](https://user-images.githubusercontent.com/56239989/123222099-cb701e80-d4f9-11eb-9559-0f2165d632e3.jpg)
+
+- Selanjutnya buka file app/Config/Routes.php dan sesuaikan kode berikut :
+
+![12](https://user-images.githubusercontent.com/56239989/123222163-dc209480-d4f9-11eb-85e2-4b3359554a04.jpg)
+
+### 8. Percobaan menu akses LOGIN
+- Buka url dengan alamat http://localhost:8080/admin/artikel ketika alamat tersebut diakses maka akan ditarik ke halaman login berikut :
+
+![artikellogin](https://user-images.githubusercontent.com/56239989/123224162-be542f00-d4fb-11eb-85aa-d07da7509e23.jpg)
+
+
+
+
 
 
 

@@ -227,8 +227,43 @@
 - Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
 
 ### 2. Membuat Tabel User Login
+- Masukan kode berikut pada database :
 
+![1](https://user-images.githubusercontent.com/56239989/123211006-0e77c500-d4ed-11eb-9a6e-3e08440bbf40.jpg)
 
+### 3. Membuat Model User
+- Buat file baru pada direktori app/Models dengan nama UserModel.php, seperti berikut :
+
+![3](https://user-images.githubusercontent.com/56239989/123211348-8b0aa380-d4ed-11eb-9397-c66c994be110.jpg)
+
+### 4. Membuat Controller User
+- Buat Controller baru dengan nama User.php pada direktori app/Controllers. kemudian tambahkan fungsi index() sebagai berikut :
+
+![4](https://user-images.githubusercontent.com/56239989/123211358-9067ee00-d4ed-11eb-8879-640011ab7ac7.jpg)
+
+### 5. Membuat View Login
+- Buat direktori baru dengan nama user pada direktori app/views, kemudian buat file baru dengan nama login.php. Dengan kode berikut :
+
+![5](https://user-images.githubusercontent.com/56239989/123211466-b2fa0700-d4ed-11eb-8fe5-05c311528671.jpg)
+
+### 6. Membuat Database Seeder
+- Buka CLI dan masukan kode "php spark make:seeder UserSeeder", Hasilnya :
+
+![6](https://user-images.githubusercontent.com/56239989/123211629-e9378680-d4ed-11eb-8ab2-cd5ab8945377.jpg)
+
+- Lalu buka file UserSeeder.php yang berada di lokasi direktori /app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
+
+![7](https://user-images.githubusercontent.com/56239989/123211686-fce2ed00-d4ed-11eb-8bcc-394fbc686856.jpg)
+
+- Selanjutnya buka kembali CLI dan ketik perintah "php spark db:seed UserSeeder" , Hasilnya :
+
+![8](https://user-images.githubusercontent.com/56239989/123211822-2c91f500-d4ee-11eb-87ea-1a20334c808a.jpg)
+
+- Hasil Uji Coba Login :
+
+![9](https://user-images.githubusercontent.com/56239989/123211903-4a5f5a00-d4ee-11eb-92b3-c069869bf8c9.jpg)
+
+### 7. 
 
 
 

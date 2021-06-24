@@ -282,6 +282,11 @@
 ![artikellogin](https://user-images.githubusercontent.com/56239989/123224162-be542f00-d4fb-11eb-85aa-d07da7509e23.jpg)
 
 
+### 9. Membuat Fungsi LOGOUT
+- Tambahkan method logout pada Controller User seperti berikut :
+
+![13](https://user-images.githubusercontent.com/56239989/123224525-15f29a80-d4fc-11eb-980e-2e5322c5137f.jpg)
+
 
 
 

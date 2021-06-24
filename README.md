@@ -5,7 +5,7 @@
 
 > Kelas : TI.19.A.2
 
-==================== # Langkah Praktikum 11 ==============
+# ========== Langkah Praktikum 11 ==========
 
 ### 1. Buat folder baru lab11_php_ci lalu Jalankan XAMPP Ubah file php.ini seperti berikut :
 
@@ -111,7 +111,7 @@
 
 > Kelas : TI.19.A.2
 
-# Langkah Praktikum 12 =====================
+# ========== Langkah Praktikum 12 ==========
 
 ### 1. Pastikan MySQL pada program XAMPP berjalan dan buat database seperti berikut :
 
@@ -220,7 +220,7 @@
 
 > Kelas : TI.19.A.2
 
-# Langkah Praktikum 13
+# ========== Langkah Praktikum 13 ==========
 
 
 ### 1. Persiapan

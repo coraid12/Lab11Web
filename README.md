@@ -287,6 +287,8 @@
 
 ![13](https://user-images.githubusercontent.com/56239989/123224525-15f29a80-d4fc-11eb-980e-2e5322c5137f.jpg)
 
+- Setelah LOGOUT otomatis akan menampilkan halaman LOGIN kembali.
+
 
 
 

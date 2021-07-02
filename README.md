@@ -290,6 +290,76 @@
 - Setelah LOGOUT otomatis akan menampilkan halaman LOGIN kembali.
 
 
+# ========== Langkah Praktikum 14 ==========
+
+> Nama  : Fahmi Prayoga
+
+> NIM   : 311910682
+
+> Kelas : TI.19.A.2
+
+### 1. Membuat Pagination
+- Untuk membuat pagination, buka Kembali **Controller Artikel**, kemudian modifikasi kode pada method **admin_index** seperti berikut:
+
+![11](https://user-images.githubusercontent.com/56239989/124272421-e29db480-db68-11eb-8fff-cf16080ade08.jpg)
+
+- Lalu tambahkan kode berikut  pada file **views/artikel/admin_index.php** :
+
+![22](https://user-images.githubusercontent.com/56239989/124272495-0103b000-db69-11eb-81a7-13f12ed91366.jpg)
+
+- Tambahkan Artikel untuk melihat hasilnya, seperti berikut :
+
+![13](https://user-images.githubusercontent.com/56239989/124279826-234dfb80-db72-11eb-9fc0-e0ed91d3d009.jpg)
+
+
+### 2. Membuat Pencarian
+- Untuk membuat pencarian data, buka kembali Controller Artikel, pada method admin_index ubah kodenya seperti berikut :
+
+![33](https://user-images.githubusercontent.com/56239989/124273068-c2222a00-db69-11eb-8d0d-04a2ad557515.jpg)
+
+- Kemudian buka kembali file views/artikel/admin_index.php dan tambahkan form pencarian sebelum deklarasi tabel seperti berikut:
+
+![44](https://user-images.githubusercontent.com/56239989/124273131-d6662700-db69-11eb-8e11-0d2a5f85dafc.jpg)
+
+- Dan pada link pager ubah seperti berikut:
+
+![55](https://user-images.githubusercontent.com/56239989/124273179-e0882580-db69-11eb-8dfc-459a7a1ce07a.jpg)
+
+- Hasilnya jika kita masukan kata pada kotak pencarian maka akan muncul kata/judul yang dicari :
+
+![66](https://user-images.githubusercontent.com/56239989/124273404-2e049280-db6a-11eb-983d-d3af640bda69.jpg)
+
+### 3. Upload Gambar
+- Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
+
+![77](https://user-images.githubusercontent.com/56239989/124274179-2396c880-db6b-11eb-8d07-f26ce04f442e.jpg)
+
+- Kemudian pada file views/artikel/form_add.php tambahkan field input file seperti berikut:
+
+![88](https://user-images.githubusercontent.com/56239989/124274233-34473e80-db6b-11eb-8bec-d6cff9ac752f.jpg)
+
+- Dan sesuaikan tag form dengan menambahkan ecrypt type seperti berikut:
+
+![99](https://user-images.githubusercontent.com/56239989/124274258-3c06e300-db6b-11eb-9e52-3f40210a4db8.jpg)
+
+- Ujicoba file upload dengan mengakses menu tambah artikel, saat di klik akan muncul direktori pilih gambar :
+
+![10](https://user-images.githubusercontent.com/56239989/124274465-7f615180-db6b-11eb-96f9-6f04bd65910f.jpg)
+
+# Pertanyaan dan Tugas
+Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
+
+![12](https://user-images.githubusercontent.com/56239989/124278098-087a8780-db70-11eb-9d10-c6cbf054233b.jpg)
+
+
+
+
+
+
+
+
+
+
 
 
 

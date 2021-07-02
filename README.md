@@ -327,7 +327,7 @@
 
 - Hasilnya jika kita masukan kata pada kotak pencarian maka akan muncul kata/judul yang dicari :
 
-![66](https://user-images.githubusercontent.com/56239989/124273404-2e049280-db6a-11eb-983d-d3af640bda69.jpg)
+![xx](https://user-images.githubusercontent.com/56239989/124280316-bf780280-db72-11eb-97a4-0fc6d35ac4c9.jpg)
 
 ### 3. Upload Gambar
 - Buka kembali Controller Artikel, sesuaikan kode pada method add seperti berikut:
@@ -344,16 +344,10 @@
 
 - Ujicoba file upload dengan mengakses menu tambah artikel, saat di klik akan muncul direktori pilih gambar :
 
-![10](https://user-images.githubusercontent.com/56239989/124274465-7f615180-db6b-11eb-96f9-6f04bd65910f.jpg)
+![xxx](https://user-images.githubusercontent.com/56239989/124280089-76c04980-db72-11eb-9c0b-2ca5440aaa42.jpg)
 
 # Pertanyaan dan Tugas
 Selesaikan programnya sesuai Langkah-langkah yang ada. Anda boleh melakukan improvisasi.
-
-![12](https://user-images.githubusercontent.com/56239989/124278098-087a8780-db70-11eb-9d10-c6cbf054233b.jpg)
-
-
-
-
 
 
 
